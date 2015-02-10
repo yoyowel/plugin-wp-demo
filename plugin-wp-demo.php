@@ -6,7 +6,7 @@
 Plugin Name: plugin-wp-demo
 Plugin URI: http://akismet.com/
 Description: un plugin wp versionné avec git
-Version: 1.0
+Version: 1.1
 Author: Automattic
 Author URI: http://automattic.com/wordpress-plugins/
 License: GPLv2 or later
